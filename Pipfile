@@ -13,3 +13,6 @@ faker = "15.0.0"
 
 [requires]
 python_full_version = "3.8.13"
+
+[dev-packages]
+pytest = "*"
